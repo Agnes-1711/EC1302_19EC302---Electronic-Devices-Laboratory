@@ -24,18 +24,19 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-## MOSFET DRAIN CHARACTERISTICS:
-![WhatsApp Image 2025-11-30 at 12 51 48_3ae50141](https://github.com/user-attachments/assets/d0be2360-1c24-434f-903c-e7292ca557f9)
+## JFET DRAIN CHARACTERISTICS:
+![WhatsApp Image 2025-11-30 at 12 57 30_3c249dac](https://github.com/user-attachments/assets/a37707d9-f6aa-40c5-922b-3d2e5c533253)
 
-## MOSFET TRANSFER CHARACTERISTICS:
-![WhatsApp Image 2025-11-30 at 12 52 31_148e0339](https://github.com/user-attachments/assets/42478436-8f3a-490f-9698-d797b3519af0)
+
+## JFET TRANSFER CHARACTERISTICS:
+![WhatsApp Image 2025-11-30 at 12 58 15_3e4ce998](https://github.com/user-attachments/assets/6f9f568e-dc60-42b3-9c17-76db640f1f20)
 
 ## OUTPUT GRAPH:
-## MOSFET DRAIN CHARACTERISTICS:
-![WhatsApp Image 2025-11-30 at 12 51 48_a6a4f417](https://github.com/user-attachments/assets/a79aee23-a6eb-4c49-962c-d6658f398193)
+## JFET DRAIN CHARACTERISTICS:
+![WhatsApp Image 2025-11-30 at 12 57 30_db55954d](https://github.com/user-attachments/assets/36edaf74-951b-422b-a830-1f18d680eb31)
 
-## MOSFET TRANSFER CHARACTERISTICS:
-![WhatsApp Image 2025-11-30 at 12 52 31_d4f1dd04](https://github.com/user-attachments/assets/5ca8ff40-8ca5-4430-b7bc-56f8c4b8dfd3)
+## JFET TRANSFER CHARACTERISTICS:
+![WhatsApp Image 2025-11-30 at 12 58 15_029a3ee7](https://github.com/user-attachments/assets/c9895e2b-e77f-441e-8dd4-f60556cd5e6e)
 
 
 
