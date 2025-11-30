@@ -57,21 +57,24 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 ## TABULATION:
 
 ## INPUT CHARATERISTICS:
-
+![WhatsApp Image 2025-11-27 at 23 32 34_03e138c1](https://github.com/user-attachments/assets/6665bd4e-aba8-479e-95d7-57c4d7c786ab)
 ## OUTPUT CHARATERISTICS:
-
-
+![WhatsApp Image 2025-11-27 at 23 34 23_7ff3c328](https://github.com/user-attachments/assets/a5de8566-17d0-43c4-b96e-d0c802b838e7)
 ## CALCULATIONS:
-
+![WhatsApp Image 2025-11-27 at 23 36 57_e48f4cef](https://github.com/user-attachments/assets/cc38b8f7-0090-48e9-bd5d-117dc4ec3821)
 ## GRAPH:
+## INPUT CHARACTERISTICS:
+![WhatsApp Image 2025-11-27 at 23 33 39_cb453c73](https://github.com/user-attachments/assets/5fd8f791-4edb-42f6-8d5c-fe6c8fb9dd26)
 
+## OUTPUT CHARACTERISTICS:
+![WhatsApp Image 2025-11-27 at 23 41 49_2a1de4cd](https://github.com/user-attachments/assets/74bf29ee-0e44-4d6e-acae-8a4d5025f461)
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
  **Input Impedance**  
-**h<sub>ie</sub> =** _________  (Ω)
+**h<sub>ie</sub> =** 268Ω
 
 **Output Admittance**  
-**h<sub>oe</sub> =** _________  (mho)
+**h<sub>oe</sub> =** 0.0001mho
 
 **Forward Current Gain**  
 **h<sub>fe</sub> =** _________
