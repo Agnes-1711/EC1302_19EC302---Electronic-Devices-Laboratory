@@ -29,6 +29,7 @@ LT-Spice
 
 
 ## OUTPUT GRAPH:
+![WhatsApp Image 2025-11-29 at 13 08 28_a268fe15](https://github.com/user-attachments/assets/35308a01-331a-4a90-bab5-304b08224179)
 
 
 ## RESULT:
