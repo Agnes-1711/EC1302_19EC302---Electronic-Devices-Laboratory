@@ -29,6 +29,8 @@ LT-Spice
 
 
 ## OUTPUT GRAPH:
+<img width="1919" height="1014" alt="Screenshot 2025-11-26 213607" src="https://github.com/user-attachments/assets/51c4b28b-c541-4d6e-b77b-c5a150efd403" />
+
 ![WhatsApp Image 2025-11-29 at 13 08 28_a268fe15](https://github.com/user-attachments/assets/35308a01-331a-4a90-bab5-304b08224179)
 
 
