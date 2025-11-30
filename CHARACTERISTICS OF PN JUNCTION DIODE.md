@@ -57,7 +57,7 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 ![WhatsApp Image 2025-11-30 at 11 52 44_830f38d6](https://github.com/user-attachments/assets/0ab7c904-d159-46a8-846d-a2bd4faa2ed1)
 
 ## GRAPH:
-![WhatsApp Image 2025-11-28 at 11 07 10_76184c7a](https://github.com/user-attachments/assets/523a2163-f1b2-45f0-b9e6-156be4e56348)
+![WhatsApp Image 2025-11-26 at 18 57 08_794aaa60](https://github.com/user-attachments/assets/ba5d63cc-d533-4b76-9cd1-b348b9ebbcc3)
 
  ## RESULTS:
  1. Forward resistance of PN diode     = 20 ohms
